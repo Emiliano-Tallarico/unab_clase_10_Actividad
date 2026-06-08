@@ -24,5 +24,5 @@ Ejercicio 5:
 
 Los antipatrones de diseño son supuestas soluciones que al final son ineficaces y terminan causando más problemas de los que solucionan, un antipatron es una práctica que parece razonable pero que a la larga genera un codigo propenso a erorres. Algunos ejemplos:
 Copy-paste : Consiste en duplicar código en lugar de abstraerlo o reutilizarlo, así los bugs y errores se multiplican.
-Spaghetti Code: Código sin estructura, flujo dificil de seguir con funciones muy largas y sin estructura clara. 
+Spaghetti Code: Código sin estructura, flujo dificil de seguir con funciones muy largas y sin estructura clara.
  
